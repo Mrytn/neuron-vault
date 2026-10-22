@@ -1,0 +1,12 @@
+export type SourceStatus = 'ok'|'missing_body'|'encrypted';
+export type SourceInfo = {sourceId?:string|null;sourceStatus?:SourceStatus|null;sourceHtmlPath?:string|null};
+export type NoteSummary = SourceInfo & {id:string;title:string;path:string;folder:string;tags:string[];updatedAt:string;excerpt:string;wordCount:number;sourceUrl?:string};
+export type Note = NoteSummary & {content:string;revision:string;backlinks:NoteSummary[];outgoing:NoteSummary[]};
+export type NoteIndex = {notes:NoteSummary[];folders:string[];stats:{notes:number;links:number;tags:number}};
+export type SearchResult = SourceInfo & {id:string;title:string;path:string;excerpt:string;line:number;score:number};
+export type GraphNode = {id:string;title:string;group:string;tags:string[]};
+export type GraphEdge = {source:string;target:string;type:'link'|'tag';label:string};
+export type GraphData = {nodes:GraphNode[];edges:GraphEdge[]};
+export type Settings = {provider:'openai'|'compatible';baseUrl:string;model:string;configured:boolean;vaultPath:string};
+export type Answer = {mode:'cloud'|'local';answer:string;sources:SearchResult[];warning?:string};
+export type Draft = {title:string;folder:string;content:string};

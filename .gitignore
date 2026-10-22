@@ -1,0 +1,39 @@
+# Runtime vaults and migration material: never publish personal notes or secrets.
+/data/
+/.demo-data/
+/.youdao-migration/
+/backups/
+/imports/
+/originals/
+/.metadata/
+/.trash/
+/.config/
+**/.env
+**/.env.*
+!**/.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Build products and local dependencies.
+/frontend/node_modules/
+/frontend/dist/
+/backend/target/
+*.tsbuildinfo
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+coverage/
+*.log
+*.pid
+*.tmp
+
+# Local editor/OS state. Keep demo/vault and docs/media tracked.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+**/.obsidian/workspace*.json

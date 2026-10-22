@@ -1,0 +1,2876 @@
+{
+  "synthetic": true,
+  "description": "Graph of the checked-in, fully invented demo notes. Positions produced by the app layoutGraph function.",
+  "points": [
+    {
+      "node": {
+        "id": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+        "title": "开始这里",
+        "group": "00-从这里开始",
+        "tags": [
+          "导览",
+          "知识连接"
+        ]
+      },
+      "x": -29.478951536486928,
+      "y": -48.61031168829321,
+      "z": 94.90395861603406,
+      "color": "#1D71F6",
+      "degree": 10
+    },
+    {
+      "node": {
+        "id": "10874f31-397a-445b-a789-390d95a5e3f3",
+        "title": "演示索引",
+        "group": "00-从这里开始",
+        "tags": [
+          "导览",
+          "知识连接"
+        ]
+      },
+      "x": 17.980079050642175,
+      "y": -13.699001079263734,
+      "z": 83.30303715370827,
+      "color": "#1D71F6",
+      "degree": 12
+    },
+    {
+      "node": {
+        "id": "b1918a9c-316b-4df6-8a24-50642e385b20",
+        "title": "记录约定",
+        "group": "00-从这里开始",
+        "tags": [
+          "决策记录",
+          "知识连接"
+        ]
+      },
+      "x": -65.26635385204916,
+      "y": -84.56956161144592,
+      "z": 54.40395985933001,
+      "color": "#1D71F6",
+      "degree": 10
+    },
+    {
+      "node": {
+        "id": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+        "title": "问答练习",
+        "group": "00-从这里开始",
+        "tags": [
+          "导览",
+          "检索验证"
+        ]
+      },
+      "x": -9.065953840035034,
+      "y": -65.53230936963082,
+      "z": 26.411647815080546,
+      "color": "#1D71F6",
+      "degree": 11
+    },
+    {
+      "node": {
+        "id": "f0cf3249-544f-4f79-9250-8546ac35721b",
+        "title": "无障碍验收",
+        "group": "01-产品",
+        "tags": [
+          "可达性",
+          "质量门槛"
+        ]
+      },
+      "x": 19.817153801992333,
+      "y": -34.478964612455236,
+      "z": -82.81085500757463,
+      "color": "#53d2c2",
+      "degree": 11
+    },
+    {
+      "node": {
+        "id": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+        "title": "棱镜展厅概览",
+        "group": "01-产品",
+        "tags": [
+          "产品边界",
+          "展厅体验"
+        ]
+      },
+      "x": 3.2716345367804647,
+      "y": -56.54607339188194,
+      "z": 13.522491386663106,
+      "color": "#53d2c2",
+      "degree": 13
+    },
+    {
+      "node": {
+        "id": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+        "title": "版本边界",
+        "group": "01-产品",
+        "tags": [
+          "产品边界",
+          "发布策略"
+        ]
+      },
+      "x": -102.49098969228542,
+      "y": 21.71919929473146,
+      "z": -39.61711341509796,
+      "color": "#53d2c2",
+      "degree": 13
+    },
+    {
+      "node": {
+        "id": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+        "title": "离线使用场景",
+        "group": "01-产品",
+        "tags": [
+          "展厅体验",
+          "离线同步"
+        ]
+      },
+      "x": 79.82814969867056,
+      "y": -80.20973004260217,
+      "z": 0.6330485954357242,
+      "color": "#53d2c2",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+        "title": "讲解员工作台",
+        "group": "01-产品",
+        "tags": [
+          "展厅体验",
+          "状态可见"
+        ]
+      },
+      "x": 86.60544229440872,
+      "y": -17.183846736779124,
+      "z": -47.55666371100855,
+      "color": "#53d2c2",
+      "degree": 20
+    },
+    {
+      "node": {
+        "id": "b86165ac-61be-497b-b120-6d423a021741",
+        "title": "设备借还体验",
+        "group": "01-产品",
+        "tags": [
+          "一致性",
+          "展厅体验"
+        ]
+      },
+      "x": -1.6117825703885607,
+      "y": -44.44585184480238,
+      "z": -42.5680931511755,
+      "color": "#53d2c2",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "16d0b967-2874-42e1-9be3-df7e21a59074",
+        "title": "访客旅程",
+        "group": "01-产品",
+        "tags": [
+          "展厅体验",
+          "现场观察"
+        ]
+      },
+      "x": 66.20241777488464,
+      "y": -40.894112730823274,
+      "z": -2.524716601556081,
+      "color": "#53d2c2",
+      "degree": 16
+    },
+    {
+      "node": {
+        "id": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+        "title": "通知分级",
+        "group": "01-产品",
+        "tags": [
+          "告警设计",
+          "状态可见"
+        ]
+      },
+      "x": 16.039339113634714,
+      "y": 1.0436932179219514,
+      "z": 39.95163580276814,
+      "color": "#53d2c2",
+      "degree": 20
+    },
+    {
+      "node": {
+        "id": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+        "title": "事件信封",
+        "group": "02-架构",
+        "tags": [
+          "事件驱动",
+          "设备接入"
+        ]
+      },
+      "x": -9.58420656014856,
+      "y": 4.1804705681000325,
+      "z": -27.215694740870585,
+      "color": "#81b6ff",
+      "degree": 14
+    },
+    {
+      "node": {
+        "id": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+        "title": "幂等收件箱",
+        "group": "02-架构",
+        "tags": [
+          "一致性",
+          "事件驱动"
+        ]
+      },
+      "x": 24.63628236755079,
+      "y": 1.1922091617063955,
+      "z": -58.91925387488579,
+      "color": "#81b6ff",
+      "degree": 24
+    },
+    {
+      "node": {
+        "id": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+        "title": "异步任务队列",
+        "group": "02-架构",
+        "tags": [
+          "事件驱动",
+          "吞吐治理"
+        ]
+      },
+      "x": 14.06614553568692,
+      "y": 68.76902454435005,
+      "z": 12.64040027286741,
+      "color": "#81b6ff",
+      "degree": 19
+    },
+    {
+      "node": {
+        "id": "6373e498-2600-4d85-92a6-1da9496fbb84",
+        "title": "本地优先同步",
+        "group": "02-架构",
+        "tags": [
+          "一致性",
+          "离线同步"
+        ]
+      },
+      "x": 21.24202078115699,
+      "y": -71.32705205487159,
+      "z": -74.03180434853175,
+      "color": "#81b6ff",
+      "degree": 13
+    },
+    {
+      "node": {
+        "id": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+        "title": "租约与选主",
+        "group": "02-架构",
+        "tags": [
+          "协调机制",
+          "故障恢复"
+        ]
+      },
+      "x": -11.727661572729163,
+      "y": 49.607400512052365,
+      "z": -76.81428650872249,
+      "color": "#81b6ff",
+      "degree": 12
+    },
+    {
+      "node": {
+        "id": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+        "title": "系统边界",
+        "group": "02-架构",
+        "tags": [
+          "产品边界",
+          "系统设计"
+        ]
+      },
+      "x": -36.635827480939845,
+      "y": 12.004567480247381,
+      "z": 59.94047520330207,
+      "color": "#81b6ff",
+      "degree": 12
+    },
+    {
+      "node": {
+        "id": "5535f193-38dd-4a2e-969c-5055b2443660",
+        "title": "设备心跳协议",
+        "group": "02-架构",
+        "tags": [
+          "状态可见",
+          "设备接入"
+        ]
+      },
+      "x": 77.47477910352548,
+      "y": 38.033913050150545,
+      "z": -24.084895946944602,
+      "color": "#81b6ff",
+      "degree": 13
+    },
+    {
+      "node": {
+        "id": "78064959-34c9-4c18-8893-4007c054eabd",
+        "title": "访问角色矩阵",
+        "group": "02-架构",
+        "tags": [
+          "产品边界",
+          "权限边界"
+        ]
+      },
+      "x": -90.23535989205688,
+      "y": -36.259964148407505,
+      "z": -32.98255370815782,
+      "color": "#81b6ff",
+      "degree": 10
+    },
+    {
+      "node": {
+        "id": "3f2d7779-813e-469f-9544-b1d12d50c981",
+        "title": "读模型投影",
+        "group": "02-架构",
+        "tags": [
+          "事件驱动",
+          "状态可见"
+        ]
+      },
+      "x": -6.988566098033404,
+      "y": 58.42305796179978,
+      "z": 49.583151433483025,
+      "color": "#81b6ff",
+      "degree": 21
+    },
+    {
+      "node": {
+        "id": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+        "title": "附件生命周期",
+        "group": "02-架构",
+        "tags": [
+          "数据治理",
+          "附件管理"
+        ]
+      },
+      "x": -59.020353597148755,
+      "y": 21.464085558298446,
+      "z": -1.0768052222445768,
+      "color": "#81b6ff",
+      "degree": 10
+    },
+    {
+      "node": {
+        "id": "fa034280-40d3-4521-970b-f367dee84970",
+        "title": "事务消息表",
+        "group": "03-工程",
+        "tags": [
+          "一致性",
+          "事件驱动"
+        ]
+      },
+      "x": 28.33137440137176,
+      "y": 55.1962902706703,
+      "z": -55.43969668258739,
+      "color": "#e6ad71",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+        "title": "发布检查单",
+        "group": "03-工程",
+        "tags": [
+          "发布策略",
+          "质量门槛"
+        ]
+      },
+      "x": -60.391214531132164,
+      "y": -3.7808151935324705,
+      "z": -54.2426908548622,
+      "color": "#e6ad71",
+      "degree": 20
+    },
+    {
+      "node": {
+        "id": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+        "title": "可观测性看板",
+        "group": "03-工程",
+        "tags": [
+          "告警设计",
+          "状态可见"
+        ]
+      },
+      "x": 46.76256341686972,
+      "y": 41.23408937547539,
+      "z": 33.93186653172382,
+      "color": "#e6ad71",
+      "degree": 20
+    },
+    {
+      "node": {
+        "id": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+        "title": "回滚演练",
+        "group": "03-工程",
+        "tags": [
+          "发布策略",
+          "故障恢复"
+        ]
+      },
+      "x": -45.78176807302843,
+      "y": 85.69985303437707,
+      "z": -53.50351498953636,
+      "color": "#e6ad71",
+      "degree": 18
+    },
+    {
+      "node": {
+        "id": "363defee-187c-4022-852b-890ff830e1ae",
+        "title": "契约测试",
+        "group": "03-工程",
+        "tags": [
+          "接口设计",
+          "质量门槛"
+        ]
+      },
+      "x": -70.62039264998614,
+      "y": -46.99437604999231,
+      "z": -87.79696052758244,
+      "color": "#e6ad71",
+      "degree": 12
+    },
+    {
+      "node": {
+        "id": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+        "title": "接口契约",
+        "group": "03-工程",
+        "tags": [
+          "接口设计",
+          "质量门槛"
+        ]
+      },
+      "x": -50.56396491093305,
+      "y": -65.47298294266153,
+      "z": -33.634645935845214,
+      "color": "#e6ad71",
+      "degree": 16
+    },
+    {
+      "node": {
+        "id": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+        "title": "故障注入",
+        "group": "03-工程",
+        "tags": [
+          "实验方法",
+          "故障恢复"
+        ]
+      },
+      "x": 9.594324957190524,
+      "y": 14.693725630482662,
+      "z": -5.110513413855772,
+      "color": "#e6ad71",
+      "degree": 21
+    },
+    {
+      "node": {
+        "id": "4c407706-844f-48eb-82c6-22f128205922",
+        "title": "数据库迁移",
+        "group": "03-工程",
+        "tags": [
+          "发布策略",
+          "演进策略"
+        ]
+      },
+      "x": -77.82119044479082,
+      "y": 75.36821774479498,
+      "z": -2.253261331988065,
+      "color": "#e6ad71",
+      "degree": 11
+    },
+    {
+      "node": {
+        "id": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+        "title": "流量整形",
+        "group": "03-工程",
+        "tags": [
+          "吞吐治理",
+          "告警设计"
+        ]
+      },
+      "x": 34.06526340530844,
+      "y": 112.87042157007006,
+      "z": 44.866041668203096,
+      "color": "#e6ad71",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+        "title": "重试退避",
+        "group": "03-工程",
+        "tags": [
+          "吞吐治理",
+          "故障恢复"
+        ]
+      },
+      "x": 9.865721439569526,
+      "y": 110.25329841558691,
+      "z": -22.82414519380245,
+      "color": "#e6ad71",
+      "degree": 18
+    },
+    {
+      "node": {
+        "id": "8213a81a-942a-47b6-9bde-619ee1867f93",
+        "title": "可用性任务卡",
+        "group": "04-研究",
+        "tags": [
+          "可达性",
+          "现场观察"
+        ]
+      },
+      "x": 74.10164829348643,
+      "y": -74.42554108716972,
+      "z": -56.00494905109828,
+      "color": "#66c6ed",
+      "degree": 12
+    },
+    {
+      "node": {
+        "id": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+        "title": "延迟分位数记录",
+        "group": "04-研究",
+        "tags": [
+          "性能实验",
+          "状态可见"
+        ]
+      },
+      "x": 88.21724207070471,
+      "y": 21.27435272775253,
+      "z": 48.61714160132361,
+      "color": "#66c6ed",
+      "degree": 14
+    },
+    {
+      "node": {
+        "id": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+        "title": "性能实验计划",
+        "group": "04-研究",
+        "tags": [
+          "吞吐治理",
+          "性能实验"
+        ]
+      },
+      "x": 85.25693355821389,
+      "y": 73.052212130801,
+      "z": 6.387036794586502,
+      "color": "#66c6ed",
+      "degree": 13
+    },
+    {
+      "node": {
+        "id": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+        "title": "搜索相关性标注",
+        "group": "04-研究",
+        "tags": [
+          "实验方法",
+          "检索验证"
+        ]
+      },
+      "x": -31.64209343534603,
+      "y": -86.5603647040599,
+      "z": -6.904539884310087,
+      "color": "#66c6ed",
+      "degree": 10
+    },
+    {
+      "node": {
+        "id": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+        "title": "样本偏差备忘",
+        "group": "04-研究",
+        "tags": [
+          "实验方法",
+          "研究边界"
+        ]
+      },
+      "x": 32.688235285869055,
+      "y": -57.01775370457315,
+      "z": 74.90757320157228,
+      "color": "#66c6ed",
+      "degree": 13
+    },
+    {
+      "node": {
+        "id": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+        "title": "离线冲突实验",
+        "group": "04-研究",
+        "tags": [
+          "实验方法",
+          "离线同步"
+        ]
+      },
+      "x": 14.858000758013182,
+      "y": -71.17964964893832,
+      "z": -0.634168916104881,
+      "color": "#66c6ed",
+      "degree": 16
+    },
+    {
+      "node": {
+        "id": "19664dd8-467a-45a3-8097-708ae1afad73",
+        "title": "虚构访谈摘要",
+        "group": "04-研究",
+        "tags": [
+          "状态可见",
+          "现场观察"
+        ]
+      },
+      "x": 77.92249628343566,
+      "y": -30.76470188586208,
+      "z": 61.15886133813199,
+      "color": "#66c6ed",
+      "degree": 14
+    },
+    {
+      "node": {
+        "id": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+        "title": "走查研究设计",
+        "group": "04-研究",
+        "tags": [
+          "实验方法",
+          "现场观察"
+        ]
+      },
+      "x": 69.86854141462506,
+      "y": -74.52225627795785,
+      "z": 51.353178453035824,
+      "color": "#66c6ed",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+        "title": "两周复盘",
+        "group": "05-运营",
+        "tags": [
+          "协作记录",
+          "复盘方法"
+        ]
+      },
+      "x": -54.30404759666748,
+      "y": -23.750281527732987,
+      "z": 74.45913238102382,
+      "color": "#b8cb78",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+        "title": "事故复盘样例",
+        "group": "05-运营",
+        "tags": [
+          "复盘方法",
+          "故障恢复"
+        ]
+      },
+      "x": -68.44031953677408,
+      "y": 37.471284478729764,
+      "z": 35.15610036863185,
+      "color": "#b8cb78",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+        "title": "值班交接",
+        "group": "05-运营",
+        "tags": [
+          "协作记录",
+          "故障恢复"
+        ]
+      },
+      "x": -67.96061332752923,
+      "y": 34.71982060042592,
+      "z": -56.09663489896514,
+      "color": "#b8cb78",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+        "title": "告警处置手册",
+        "group": "05-运营",
+        "tags": [
+          "告警设计",
+          "故障恢复"
+        ]
+      },
+      "x": -11.049853705074309,
+      "y": 68.30379395699657,
+      "z": -1.5218472339265854,
+      "color": "#b8cb78",
+      "degree": 17
+    },
+    {
+      "node": {
+        "id": "873d8128-2f99-413a-ace1-1681b789eadf",
+        "title": "容量预算",
+        "group": "05-运营",
+        "tags": [
+          "吞吐治理",
+          "性能实验"
+        ]
+      },
+      "x": 61.84967455839468,
+      "y": 116.95009312379484,
+      "z": 3.2266371389296795,
+      "color": "#b8cb78",
+      "degree": 15
+    },
+    {
+      "node": {
+        "id": "858deeee-62ad-4435-8880-9f7652fb05da",
+        "title": "待验证假设",
+        "group": "05-运营",
+        "tags": [
+          "决策记录",
+          "研究边界"
+        ]
+      },
+      "x": 3.6849925495063522,
+      "y": -83.74887178979948,
+      "z": 54.230778258791254,
+      "color": "#b8cb78",
+      "degree": 14
+    },
+    {
+      "node": {
+        "id": "3101a854-b455-4a6a-8869-1291ab1a6220",
+        "title": "数据保留策略",
+        "group": "05-运营",
+        "tags": [
+          "数据治理",
+          "附件管理"
+        ]
+      },
+      "x": -31.715558010020995,
+      "y": 107.06951214680902,
+      "z": 5.012423899026016,
+      "color": "#b8cb78",
+      "degree": 9
+    },
+    {
+      "node": {
+        "id": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+        "title": "演示发布日志",
+        "group": "05-运营",
+        "tags": [
+          "协作记录",
+          "发布策略"
+        ]
+      },
+      "x": -71.83343353790829,
+      "y": -18.620212432588744,
+      "z": 17.569727377583032,
+      "color": "#b8cb78",
+      "degree": 13
+    }
+  ],
+  "edges": [
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "target": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "78064959-34c9-4c18-8893-4007c054eabd",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "363defee-187c-4022-852b-890ff830e1ae",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "target": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "target": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "target": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "78064959-34c9-4c18-8893-4007c054eabd",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "78064959-34c9-4c18-8893-4007c054eabd",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "78064959-34c9-4c18-8893-4007c054eabd",
+      "target": "363defee-187c-4022-852b-890ff830e1ae",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "78064959-34c9-4c18-8893-4007c054eabd",
+      "target": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "4c407706-844f-48eb-82c6-22f128205922",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "target": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "target": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "fa034280-40d3-4521-970b-f367dee84970",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "fa034280-40d3-4521-970b-f367dee84970",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "fa034280-40d3-4521-970b-f367dee84970",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "fa034280-40d3-4521-970b-f367dee84970",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "363defee-187c-4022-852b-890ff830e1ae",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "4c407706-844f-48eb-82c6-22f128205922",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "363defee-187c-4022-852b-890ff830e1ae",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "363defee-187c-4022-852b-890ff830e1ae",
+      "target": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "363defee-187c-4022-852b-890ff830e1ae",
+      "target": "78064959-34c9-4c18-8893-4007c054eabd",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "363defee-187c-4022-852b-890ff830e1ae",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "target": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "target": "78064959-34c9-4c18-8893-4007c054eabd",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "target": "363defee-187c-4022-852b-890ff830e1ae",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4c407706-844f-48eb-82c6-22f128205922",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4c407706-844f-48eb-82c6-22f128205922",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4c407706-844f-48eb-82c6-22f128205922",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4c407706-844f-48eb-82c6-22f128205922",
+      "target": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "target": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "target": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "target": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "target": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "target": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "target": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "target": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "target": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "target": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "target": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "target": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "target": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "target": "4c407706-844f-48eb-82c6-22f128205922",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "link",
+      "label": "笔记链接"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "tag",
+      "label": "一致性"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "tag",
+      "label": "一致性"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "一致性"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "tag",
+      "label": "一致性"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "一致性"
+    },
+    {
+      "source": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "一致性"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "12d398b5-1311-4d0a-b679-daab5bfebf87",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "fa034280-40d3-4521-970b-f367dee84970",
+      "type": "tag",
+      "label": "事件驱动"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "type": "tag",
+      "label": "产品边界"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "type": "tag",
+      "label": "产品边界"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "78064959-34c9-4c18-8893-4007c054eabd",
+      "type": "tag",
+      "label": "产品边界"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "type": "tag",
+      "label": "产品边界"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "78064959-34c9-4c18-8893-4007c054eabd",
+      "type": "tag",
+      "label": "产品边界"
+    },
+    {
+      "source": "c50e7540-a5a1-4a68-aec6-2516427b5d0c",
+      "target": "78064959-34c9-4c18-8893-4007c054eabd",
+      "type": "tag",
+      "label": "产品边界"
+    },
+    {
+      "source": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "tag",
+      "label": "决策记录"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "tag",
+      "label": "协作记录"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "tag",
+      "label": "协作记录"
+    },
+    {
+      "source": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "tag",
+      "label": "协作记录"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "4c407706-844f-48eb-82c6-22f128205922",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "6b14d2c9-6ddc-4d23-88a0-4d34111cf0f7",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "4c407706-844f-48eb-82c6-22f128205922",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "4c407706-844f-48eb-82c6-22f128205922",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "4c407706-844f-48eb-82c6-22f128205922",
+      "target": "93c0f8f7-b928-4f9b-a649-a4eb118c0940",
+      "type": "tag",
+      "label": "发布策略"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "type": "tag",
+      "label": "可达性"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "1f8b9bba-8ee7-487e-a2fb-4195e0c4db8d",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "tag",
+      "label": "吞吐治理"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "tag",
+      "label": "告警设计"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "tag",
+      "label": "告警设计"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "告警设计"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "type": "tag",
+      "label": "告警设计"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "告警设计"
+    },
+    {
+      "source": "3e22adca-4ee3-4b4d-9eb2-b76453a6b682",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "告警设计"
+    },
+    {
+      "source": "4f677f7d-3778-4dda-a380-c7cab3d4f6f9",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "tag",
+      "label": "复盘方法"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "实验方法"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "type": "tag",
+      "label": "导览"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "type": "tag",
+      "label": "导览"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "type": "tag",
+      "label": "导览"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "248bf2a5-8824-4482-b36f-d81ffaad1156",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "b86165ac-61be-497b-b120-6d423a021741",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "b86165ac-61be-497b-b120-6d423a021741",
+      "target": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "type": "tag",
+      "label": "展厅体验"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "type": "tag",
+      "label": "性能实验"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "tag",
+      "label": "性能实验"
+    },
+    {
+      "source": "eb402197-06c8-45b0-b7e8-971a6c2b381e",
+      "target": "873d8128-2f99-413a-ace1-1681b789eadf",
+      "type": "tag",
+      "label": "性能实验"
+    },
+    {
+      "source": "363defee-187c-4022-852b-890ff830e1ae",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "tag",
+      "label": "接口设计"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "cf04a93d-a32f-4c1d-93da-c304af4025db",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "8ab7fad3-3598-460c-84b5-bbaa17956878",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "f86a5ad0-a702-45d1-9d36-20975c14045b",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "24eaa1e9-e234-4885-9bf2-b4c2cf3ff3ac",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "82876452-5e7b-45b8-a6d9-c0c9a3de6525",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "2022880d-476e-49b5-91b3-cdb7bc4107d8",
+      "target": "3d1b708e-1501-474f-b7bc-a269607bbc3a",
+      "type": "tag",
+      "label": "故障恢复"
+    },
+    {
+      "source": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "target": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "type": "tag",
+      "label": "数据治理"
+    },
+    {
+      "source": "ca52f8e1-4928-4212-bd38-ca0ebcf8f95f",
+      "target": "7c9775ff-482a-45f0-b8a8-4dcbe3aacdb6",
+      "type": "tag",
+      "label": "检索验证"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "332ad733-3b3a-40a5-a3f3-4d12fca111be",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "4b706c00-f251-49fe-ac77-a5ea6f2f453b",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "3f2d7779-813e-469f-9544-b1d12d50c981",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "5519c948-48f1-4bbf-bc76-823a9f8509b4",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "b645613f-2472-4b85-bade-b5e72e3a29fc",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "状态可见"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "type": "tag",
+      "label": "现场观察"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "现场观察"
+    },
+    {
+      "source": "16d0b967-2874-42e1-9be3-df7e21a59074",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "现场观察"
+    },
+    {
+      "source": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "target": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "type": "tag",
+      "label": "现场观察"
+    },
+    {
+      "source": "8213a81a-942a-47b6-9bde-619ee1867f93",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "现场观察"
+    },
+    {
+      "source": "19664dd8-467a-45a3-8097-708ae1afad73",
+      "target": "21c95d3c-997b-45da-84be-b15a9a41b07a",
+      "type": "tag",
+      "label": "现场观察"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "type": "tag",
+      "label": "知识连接"
+    },
+    {
+      "source": "95bf901b-9859-41e3-890e-382ad3a42c1e",
+      "target": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "type": "tag",
+      "label": "知识连接"
+    },
+    {
+      "source": "10874f31-397a-445b-a789-390d95a5e3f3",
+      "target": "b1918a9c-316b-4df6-8a24-50642e385b20",
+      "type": "tag",
+      "label": "知识连接"
+    },
+    {
+      "source": "cca9dbcd-4c7d-4cff-96db-9399aea280b8",
+      "target": "858deeee-62ad-4435-8880-9f7652fb05da",
+      "type": "tag",
+      "label": "研究边界"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "type": "tag",
+      "label": "离线同步"
+    },
+    {
+      "source": "b5938c00-e4bd-4b8b-a98f-42b66efe0896",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "tag",
+      "label": "离线同步"
+    },
+    {
+      "source": "6373e498-2600-4d85-92a6-1da9496fbb84",
+      "target": "7cd6ec1e-8408-4de6-bbfb-b11be9188de1",
+      "type": "tag",
+      "label": "离线同步"
+    },
+    {
+      "source": "b9e7ee92-6c99-418d-a417-cf449f60d7ed",
+      "target": "5535f193-38dd-4a2e-969c-5055b2443660",
+      "type": "tag",
+      "label": "设备接入"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "type": "tag",
+      "label": "质量门槛"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "363defee-187c-4022-852b-890ff830e1ae",
+      "type": "tag",
+      "label": "质量门槛"
+    },
+    {
+      "source": "f0cf3249-544f-4f79-9250-8546ac35721b",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "tag",
+      "label": "质量门槛"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "363defee-187c-4022-852b-890ff830e1ae",
+      "type": "tag",
+      "label": "质量门槛"
+    },
+    {
+      "source": "c81f1d15-5a6f-4168-9d90-de4ce80a516e",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "tag",
+      "label": "质量门槛"
+    },
+    {
+      "source": "363defee-187c-4022-852b-890ff830e1ae",
+      "target": "bdd8ea16-351a-4b83-b37f-59dd471f88d1",
+      "type": "tag",
+      "label": "质量门槛"
+    },
+    {
+      "source": "ef58b2cd-0ea6-4fb3-b057-967b2e6bc037",
+      "target": "3101a854-b455-4a6a-8869-1291ab1a6220",
+      "type": "tag",
+      "label": "附件管理"
+    }
+  ]
+}
